@@ -90,6 +90,19 @@ Our data model stores a range of data regarding college football over several se
 
 
 ## Queries:
+1) Query 1 shows conference champion trends, with teams added
+   
+![image](https://github.com/user-attachments/assets/4305d710-5f7c-4a70-a23b-c97facabd48a)
+
+This query would be useful for 
+
+2) Query 2 shows players with the most stats and their NIL sponsor amount
+
+![Players with most stats and their NIL sponsor amount](https://github.com/user-attachments/assets/5ee2f443-3035-43b5-a0a2-d968ce924d68)
+
+This query shows
+
+
 
 
 
