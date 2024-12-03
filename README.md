@@ -102,10 +102,11 @@ This query would be useful for
 
 This query shows
 
-3) Query 3 shows
+3) Query 3 shows the data from schools that include their win/loss record as well as the points scored in games. 
 
 <img width="491" alt="Screenshot 2024-12-01 at 6 22 51 PM" src="https://github.com/user-attachments/assets/c6170fc7-d32c-4ca7-b742-cceb2ecc0bde">
 
+This query is important for creating data-driven insights and knowing where to allocate resources and funding.
 
 
 
