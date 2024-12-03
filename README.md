@@ -108,6 +108,13 @@ This query shows
 
 This query is important for creating data-driven insights and knowing where to allocate resources and funding.
 
+4) Query 4 shows the player's average height and weight, as well as their team's win/loss record.
+
+   <img width="841" alt="QUERY FOR PROJECT 2" src="https://github.com/user-attachments/assets/7c423cf1-997d-490d-b3c0-1660f0071db7">
+
+This query shows the correlation between which football team has the biggest/heaviest players and their records in regular season play. this tells coaches if their performance is based on coaching or their players, as football is a physical sport, favoring the bigger player most of the time or by plays and schemes the team runs on the field. It also tells recuriters how much their team weighs and how tall they are, on average. 
+
+
 
 
 ## Visualzations:
